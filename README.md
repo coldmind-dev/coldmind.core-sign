@@ -1,0 +1,1 @@
+# coldmind.core-sign
